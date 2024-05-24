@@ -8,7 +8,7 @@
 
 ### 🌱 I’m currently learning...
 
-[![languages](https://skillicons.dev/icons?i=react, ts)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 
 ### 🔭 I would like to learn...

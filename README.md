@@ -2,13 +2,13 @@
 
 ### 🔧 Languages and tools 
 
-[![languages](https://skillicons.dev/icons?i=python,java,php,bash,c,ts,js,html,css)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=python,java,php,bash,c,js,html,css)](https://skillicons.dev)
 
 [![tools](https://skillicons.dev/icons?i=vscode,mysql,github,figma,eclipse,bootstrap,docker)](https://skillicons.dev)
 
 ### 🌱 I’m currently learning...
 
-[![languages](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=react, ts)](https://skillicons.dev)
 
 
 ### 🔭 I would like to learn...
